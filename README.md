@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Bharti
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Dart
-- 💞️ I’m Flutter Developer (Looking for job fresher)
+- 💞️ I’m Flutter Developer
 - 📫 How to reach me ...
 
 <!---
